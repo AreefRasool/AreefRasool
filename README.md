@@ -22,6 +22,7 @@
 * Sales Forecasting & Analytics Dashboard
 * Student Performance Prediction System
 * Codewire
+* ResumeIQ
 ---
 ## 🌱 Currently Learning
 
