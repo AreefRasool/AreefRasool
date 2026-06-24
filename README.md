@@ -21,7 +21,6 @@
 * Multi-Agent Sepsis Early Warning System
 * Sales Forecasting & Analytics Dashboard
 * Student Performance Prediction System
-* Computer Vision Applications
 * Codewire
 ---
 ## 🌱 Currently Learning
