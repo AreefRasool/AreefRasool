@@ -33,5 +33,8 @@
 
 📫 **Reach me:** [areefrasool0@gmail.com](mailto:areefrasool0@gmail.com)
 
+📫 **Connect with me:** GitHub: https://github.com/AreefRasool
+
+📫 **Connect with me:** Linkedin: https://www.linkedin.com/in/areefrasool/
 
 ⚡ Turning data into insights and ideas into intelligent solutions.
