@@ -21,8 +21,8 @@
 * Multi-Agent Sepsis Early Warning System
 * Sales Forecasting & Analytics Dashboard
 * Student Performance Prediction System
-* Codewire
-* ResumeIQ
+* Codewire 🔗 https://github.com/AreefRasool/Codewire
+* ResumeIQ 🔗 https://github.com/AreefRasool/ResumeIQ
 ---
 ## 🌱 Currently Learning
 
@@ -32,5 +32,6 @@
 * MLOps
 
 📫 **Reach me:** [areefrasool0@gmail.com](mailto:areefrasool0@gmail.com)
+
 
 ⚡ Turning data into insights and ideas into intelligent solutions.
