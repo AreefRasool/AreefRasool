@@ -18,9 +18,6 @@
 ---
 ## 📌 Projects
 
-* Multi-Agent Sepsis Early Warning System
-* Sales Forecasting & Analytics Dashboard
-* Student Performance Prediction System
 * DevScope-AI
 * Codewire 
 * ResumeIQ
