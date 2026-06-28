@@ -53,5 +53,7 @@ Deep Learning · Computer Vision · Big Data Analytics · MLOps
 ### 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-areefrasool0%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:areefrasool0@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-AreefRasool-181717?style=flat&logo=github&logoColor=white)](https://github.com/AreefRasool)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Areef%20Rasool-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areefrasool/)
