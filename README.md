@@ -10,6 +10,13 @@
 ⚡ Turning data into insights and ideas into intelligent solutions.
 </p>
 
+---
+
+<p align="center">
+  <img src="Banner.png" alt="Banner" width="100%">
+</p>
+
+---
 
 ### 🚀 Skills
 
