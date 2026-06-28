@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="images/github-banner.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm Areef Rasool 👋</h1>
 
 <p align="center">
@@ -12,6 +8,12 @@
 
 <p align="center">
 ⚡ Turning data into insights and ideas into intelligent solutions.
+</p>
+
+---
+
+<p align="center">
+  <img src="Banner.png" alt="Banner" width="100%">
 </p>
 
 ---
