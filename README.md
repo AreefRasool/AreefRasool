@@ -41,12 +41,12 @@
 | [**CodeWire Pro**](https://github.com/AreefRasool/CodeWire) | Engineering compliance dashboard for voltage drop, wire sizing, conduit design, and automated PDF reports. |
 | [**DevScope AI**](https://github.com/AreefRasool/DevScope-AI) | GitHub portfolio intelligence platform that analyzes developer profiles and generates recruiter-style scores. |
 | [**ResumeIQ**](https://github.com/AreefRasool/ResumeIQ) | AI-powered resume analysis tool with ATS scoring, job-role matching, and optimization suggestions. |
-
+| [**ParallelCare**](https://github.com/AreefRasool/ParallelCare) | High-performance hospital queue management system built in C using Sequential Processing, POSIX Threads, OpenMP, and MPI for parallel patient processing, benchmarking, and speedup analysis. |
 ---
 
 ### 🌱 Currently Learning
 
-Deep Learning · Computer Vision · Big Data Analytics · MLOps
+Deep Learning · Computer Vision · Big Data Analytics 
 
 ---
 
