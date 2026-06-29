@@ -46,7 +46,7 @@
 
 ### 🌱 Currently Learning
 
-Deep Learning · Computer Vision · Big Data Analytics 
+Deep Learning · Computer Vision · Big Data Analytics
 
 ---
 
